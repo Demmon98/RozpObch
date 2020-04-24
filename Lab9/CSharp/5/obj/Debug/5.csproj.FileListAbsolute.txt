@@ -1,0 +1,6 @@
+C:\Users\dima5\Desktop\DistributedComputationsDistanceLearning-master\M1Lab9\CSharp\5\bin\Debug\5.exe.config
+C:\Users\dima5\Desktop\DistributedComputationsDistanceLearning-master\M1Lab9\CSharp\5\bin\Debug\5.exe
+C:\Users\dima5\Desktop\DistributedComputationsDistanceLearning-master\M1Lab9\CSharp\5\bin\Debug\5.pdb
+C:\Users\dima5\Desktop\DistributedComputationsDistanceLearning-master\M1Lab9\CSharp\5\obj\Debug\5.csprojAssemblyReference.cache
+C:\Users\dima5\Desktop\DistributedComputationsDistanceLearning-master\M1Lab9\CSharp\5\obj\Debug\5.exe
+C:\Users\dima5\Desktop\DistributedComputationsDistanceLearning-master\M1Lab9\CSharp\5\obj\Debug\5.pdb

@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\dima5\Desktop\DistributedComputationsDistanceLearning-master\M1Lab9\IntelThreadingBuildingBlocks\Lab9_3\main.cpp(1,10): fatal error C1083: Не удается открыть файл включение: tbb/parallel_for.h: No such file or directory,
